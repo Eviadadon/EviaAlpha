@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "539212812491",
+    "firebase_url": "https://eviaalpha.firebaseio.com",
+    "project_id": "eviaalpha",
+    "storage_bucket": "eviaalpha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539212812491:android:005324976c91a7de6d0b4e",
+        "android_client_info": {
+          "package_name": "com.example.eviaalpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539212812491-oukmg8ua69iacadupjriilgkos988gto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eviaalpha",
+            "certificate_hash": "59df2ca990ed129f8e5cbf78cc04e94d359d9723"
+          }
+        },
+        {
+          "client_id": "539212812491-raqssf4n0pqv77qjalasanoldtvio3d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAisnanyVHc3Tm0fJKfzbzXeoVvMJqTI3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539212812491-raqssf4n0pqv77qjalasanoldtvio3d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
